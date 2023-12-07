@@ -10,8 +10,6 @@
   
 - 👁️ Faço músicas!!
 
-- ⛓️ Contate-me neste email: caioprezottobatista@gmail.com
-
 ##
 
 <div>
@@ -35,21 +33,17 @@
   <br>
 </div>
 
-##
-
-<div align="center"> 
-<a href="https://instagram.com/zott.__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:cmp.1a.caioprezottobatista@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/caio-batista-prezotto-49408a217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
-
  <div  align="center"> 
   <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="giphy.gif">
     <h1 align="center">Conhecimentos:</h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <h1 align="center">Contato:</h1>
+    <a href="https://instagram.com/zott.__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <a href = "mailto:cmp.1a.caioprezottobatista@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/caio-batista-prezotto-49408a217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
   </div>  
 
-  ![giphy](https://github.com/caioprezottoo/caioprezottoo/assets/152824103/dc48230e-96ed-46fc-b777-7025a8d25912)
