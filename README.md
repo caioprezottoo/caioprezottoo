@@ -9,7 +9,3 @@
   <img alt="caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-<div><br>
-  <img src="https://github.com/caioprezottoo/caioprezottoo/blob/main/me.jpg?raw=true" height="100" />
-</div>
