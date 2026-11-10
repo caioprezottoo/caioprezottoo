@@ -1,5 +1,5 @@
 <h1>Greetings!</h1>
-<p>i'm caio prezotto, a software engineer.</p>
+<p>i'm caio, a software engineer.</p>
 
 <div style="display: inline_block"><br>
   <img alt="caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
